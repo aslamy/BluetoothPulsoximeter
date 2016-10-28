@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bluetooth Pulse</string>
+    <string name="action_settings">Settings</string>
+    <string name="store_data_btn">Store Data</string>
+    <string name="title_activity_setting">Settings</string>
+    <string name="server_ip">Server IP</string>
+    <string name="server_port">Sever Port</string>
+    <string name="file_name">File Name</string>
+    <string name="measure">Measure</string>
+    <string name="save_btn">Save</string>
+    <string name="heart_rate">Heart rate:</string>
+</resources>
